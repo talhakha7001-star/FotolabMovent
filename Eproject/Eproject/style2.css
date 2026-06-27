@@ -1,0 +1,199 @@
+.mainfooter{
+    width: 100%;
+    background-color: rgb(24,24,36);
+    float: left;
+}
+
+.image-box{
+    width: 500px;
+    height: 520px;
+    border: 1px solid #333;
+    border-radius: 1px;
+    overflow: hidden;   
+    margin-left: 55%;
+    margin-top: 6%;
+}
+
+.image-box img{
+    width: 350px;
+    height: 250px;
+    object-fit: cover;  
+    display: block;
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+.image-box img:last-child{
+    width: 350px;
+    height: 250px;
+    display: block;
+    object-fit:cover ;
+    margin-top: 50%;
+    margin-right: 20%;
+}
+.Welcome{
+    position: absolute;
+    top: 160%;
+    margin-left: 35px;
+}
+.Welcome h1{
+    font-weight: 700;
+    font-size: 35px;
+}
+.Welcome p{
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+.image-box2{
+    width: 750px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 1px;
+    overflow: hidden;
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.image-box2 img{
+    width: 850px;
+    height: 450px;
+    object-fit: cover;  
+    display: block;      
+}
+.Welcome2{
+   position: absolute;
+   margin-left: 800px;
+    top: 265%;
+}
+.Welcome2 h1{
+   font-weight: 700;
+   font-size: 35px;   
+}
+.Welcome2 p{
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+.cards{
+    display: flex;
+    gap: 5px;
+}
+.card{
+   width: 200px;
+    height: auto;
+    border: 1px solid  yellow;
+    border-radius: 1px;
+    
+    
+}
+.card img{
+    width: 50PX;
+    margin-left: 69px;
+    margin-top: 30px;
+     
+}
+.card h1{
+    font-size: 22px;
+    margin-left: 20px;
+
+}
+
+
+
+.card p{
+    font-size: 12px;
+    margin-left: 10px;
+    font-weight: 100px;
+
+    
+}
+.cards  :hover{
+    transform: translate(-3px);
+box-shadow:0px 10px 25px rgba(27, 26, 26, 0.2);
+}
+.ourvision{
+    width: 700px;
+    height: 100;
+    border: 1px solid rgb(14, 1, 1)    ;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.ourvisionimage img{
+    width: 558px;
+    height:381px ;
+    top: 411%;
+    position: absolute;
+    margin-left: 54%;
+    
+}
+.OurMisson1 img{
+     width: 558px;
+    height:381px ;
+     margin-left: 30px;
+    margin-top: 20px;
+  
+}
+.ourMisson2{
+    width: 700px;
+    height: 100;
+    border: 1px solid black;
+  position: absolute;
+    margin-left: 43.5%;
+     top: 497%;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+  
+}
+
+.image-box4{
+    width: 500px;
+    height: 520px;
+    border: 1px solid #333;
+    border-radius: 1px;
+    overflow: hidden;   
+    margin-left: 55%;
+    margin-top: 6%;
+}
+
+.image-box4 img{
+    width: 350px;
+    height: 250px;
+    object-fit: cover;  
+    display: block;
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+.image-box4 img:last-child{
+    width: 350px;
+    height: 250px;
+    display: block;
+    object-fit:cover ;
+    margin-top: 50%;
+    margin-right: 20%;
+}
+.Welcome4{
+    position: absolute;
+    top: 590%;
+    margin-left: 40px;
+}
+.Welcome4 p{
+    font-weight: 700;
+    font-size: 20px;
+
+    
+}
+.contact-page{
+    width:100%;
+    min-height:100vh;
+    padding:80px 10%;
+    display:flex;
+    flex-wrap:wrap;
+    gap:40px;
+    background:#f8f8f8;
+}
+
