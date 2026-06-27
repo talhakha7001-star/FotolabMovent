@@ -14,7 +14,7 @@
 } 
 
 
-@media (maxwidth: 768px){
+@media (max-width: 768px){
     .mainnav{
       width: 250px;
       height: 250px;
@@ -47,20 +47,19 @@
     color:#666;
 }
 
-
-/* .card{
+ .card{
     border:none;
     transition:0.3s;
     box-shadow:0 4px 15px rgba(0,0,0,0.1);
     width: 100%;
-} */
-/* */@media (maxwidth: 768px){
+
+@media (max-width: 768px){
     .card{
       width:150px;
-     */
+    
     
     }
-} */
+} 
 .card:hover{
     transform:translateY(-10px);
 }
