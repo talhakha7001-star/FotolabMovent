@@ -53,13 +53,7 @@
     box-shadow:0 4px 15px rgba(0,0,0,0.1);
     width: 100%;
  }
-@media (max-width: 768px){
-    .card{
-      width:150px;
-    
-    
-    }
-} 
+
 .card:hover{
     transform:translateY(-10px);
 }
