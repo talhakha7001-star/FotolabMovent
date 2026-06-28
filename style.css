@@ -51,7 +51,7 @@
     border:none;
     transition:0.3s;
     box-shadow:0 4px 15px rgba(0,0,0,0.1);
-    
+    width:100%
  }
 
 .card:hover{
